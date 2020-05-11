@@ -1,6 +1,6 @@
 # 
 <p align='center'>
-    <a href="https://github.com/jwenjian/visitor-count-badge">
+    <a href="https://github.com/gongxifacai-pay/WushimengVSBlack">
         <img src="https://visitor-badge.glitch.me/badge?page_id=jwenjian.ghiblog"/>
     </a>
 </p>
