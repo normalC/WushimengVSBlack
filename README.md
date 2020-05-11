@@ -1,9 +1,5 @@
 # 
-<p align='center'>
-    <a href="https://github.com/gongxifacai-pay/WushimengVSBlack">
-        <img src="https://visitor-badge.glitch.me/badge?page_id=jwenjian.ghiblog"/>
-    </a>
-</p>
+[![HitCount](http://hits.dwyl.io/wsm/CicadaPlayer.svg)](http://hits.dwyl.io/wsm/hits)
 
 我知道你们在P站找不到 所以我特地留了一份
 
